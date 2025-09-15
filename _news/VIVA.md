@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-PhD Viva passed :party_popper:
+PhD Viva passed :student: :tada: 

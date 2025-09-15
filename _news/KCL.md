@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started Post-doc at KCL :sparkles: :smile:
+Started Post-doc at KCL :sparkles:

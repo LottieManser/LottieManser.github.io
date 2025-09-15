@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-INTERPHACE symposium 2025 at the Crick is a success!
-https://www.crick.ac.uk/whats-on/interphace-symposium-2025
+INTERPHACE symposium 2025

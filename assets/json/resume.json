@@ -15,7 +15,7 @@
       "area": "Life Sciences",
       "studyType": "PhD",
       "startDate": "2021-10-01",
-      "endDate": "",
+      "endDate": "2025-06-09",
       "thesis": "Mechanistic Control of Tempo and Function in Gene Regulation via Quantitative Modelling",
       "supervisors": ["Dr Ruben Perez-Carrasco"]
     },
@@ -123,17 +123,6 @@
         "Teaching and supervision",
         "Peer review"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "INTERPHACE Symposium",
-      "summary": "Organising an interdisciplinary symposium bridging theoreticians and experimentalists at the Francis Crick Institute (24 Feb 2025).",
-      "highlights": ["Lead organiser"]
-    },
-    {
-      "name": "Mathematical Life Sciences Group",
-      "summary": "Founded a departmental group at Imperial to encourage collaboration in mathematical life sciences, hosting monthly seminars and socials."
     }
   ],
   "publications": [
