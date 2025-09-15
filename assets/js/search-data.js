@@ -383,16 +383,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-jsps-short-term-fellowship",
+          title: 'JSPS Short-term Fellowship',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/JSPSfellowship.html";
+            },},{id: "news-started-post-doc-at-kcl-sparkles-smile",
+          title: 'Started Post-doc at KCL :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-tuning-developmental-tempo-across-species",
           title: 'Tuning developmental tempo across species',
@@ -409,19 +406,17 @@ ninja.data = [{
           description: "Cell movements, gene regulation and tempo in the vertebrate segmentation clock.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
+            },},{id: "projects-croc-monsieur",
+          title: 'Croc Monsieur',
+          description: "A video game about a French man throwing his crocs.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CroqueMonsieur.html";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("mailto:%63%68%61%72%6C%6F%74%74%65.%6D%61%6E%73%65%72@%6B%63%6C.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-rss',
@@ -435,14 +430,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=7hCLPBEAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
