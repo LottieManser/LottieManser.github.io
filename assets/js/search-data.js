@@ -383,13 +383,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-jsps-short-term-fellowship",
+            },},{id: "news-interphace-symposium-2025-at-the-crick-is-a-success-https-www-crick-ac-uk-whats-on-interphace-symposium-2025",
+          title: 'INTERPHACE symposium 2025 at the Crick is a success! https://www.crick.ac.uk/whats-on/interphace-symposium-2025',
+          description: "",
+          section: "News",},{id: "news-jsps-short-term-fellowship",
           title: 'JSPS Short-term Fellowship',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/JSPSfellowship.html";
             },},{id: "news-started-post-doc-at-kcl-sparkles-smile",
           title: 'Started Post-doc at KCL :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-phd-viva-passed-party-popper",
+          title: 'PhD Viva passed :party_popper:',
           description: "",
           section: "News",},{id: "projects-tuning-developmental-tempo-across-species",
           title: 'Tuning developmental tempo across species',
@@ -410,13 +416,32 @@ ninja.data = [{
           title: 'Croc Monsieur',
           description: "A video game about a French man throwing his crocs.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/CroqueMonsieur.html";
+              window.location.href = "/projects/4_project.html";
+            },},{id: "projects-interphace-conference",
+          title: 'INTERPHACE Conference',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project.html";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%63%68%61%72%6C%6F%74%74%65.%6D%61%6E%73%65%72@%6B%63%6C.%61%63.%75%6B", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/LottieManser", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-4125-8900", "_blank");
         },
       },{
         id: 'social-rss',
