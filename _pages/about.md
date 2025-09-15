@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>King' College London</a>. charlotte.manser@kcl.ac.uk
+subtitle: <a href='#'>King's College London</a>. charlotte.manser@kcl.ac.uk
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  more_info: >
+    <p>charlotte.manser@kcl.ac.uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
