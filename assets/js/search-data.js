@@ -383,19 +383,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-interphace-symposium-2025-at-the-crick-is-a-success-https-www-crick-ac-uk-whats-on-interphace-symposium-2025",
-          title: 'INTERPHACE symposium 2025 at the Crick is a success! https://www.crick.ac.uk/whats-on/interphace-symposium-2025',
+            },},{id: "news-interphace-symposium-2025",
+          title: 'INTERPHACE symposium 2025',
           description: "",
           section: "News",},{id: "news-jsps-short-term-fellowship",
           title: 'JSPS Short-term Fellowship',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/JSPSfellowship.html";
-            },},{id: "news-started-post-doc-at-kcl-sparkles-smile",
-          title: 'Started Post-doc at KCL :sparkles: :smile:',
+            },},{id: "news-started-post-doc-at-kcl-sparkles",
+          title: 'Started Post-doc at KCL :sparkles:',
           description: "",
-          section: "News",},{id: "news-phd-viva-passed-party-popper",
-          title: 'PhD Viva passed :party_popper:',
+          section: "News",},{id: "news-phd-viva-passed-student-tada",
+          title: 'PhD Viva passed :student: :tada:',
           description: "",
           section: "News",},{id: "projects-tuning-developmental-tempo-across-species",
           title: 'Tuning developmental tempo across species',
