@@ -17,11 +17,11 @@ I am home from my 3 month fellowship with the Matsuzaki lab in Kyoto University,
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+    Some photos from Kyoto.
 </div>
 
 ---
 
-## Hipster list
+## Update
 
 As of September, we have submitted a manuscript on my work in Kyoto.

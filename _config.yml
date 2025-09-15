@@ -7,7 +7,7 @@ first_name: Charlotte
 middle_name: L.
 last_name: Manser
 contact_note: >
-  Best way to reach me is email!
+  Best way to reach me is by email!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website for Charlotte Manser.
 footer_text: >
@@ -264,7 +264,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Manser]
-  first_name: [Charlotte, L.]
+  first_name: [Charlotte, L.,L]
 
   style: apa
   locale: en
