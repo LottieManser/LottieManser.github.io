@@ -26,7 +26,6 @@ latest_posts:
 ---
 
 ### me
-
 I am a postdoctoral researcher in the Department of Mathematics at <b>King’s College London</b>, working with Professor Rachel Bearon. I use mathematical tools to solve complex biological problems.
 
 My current research focuses on understanding the biomechancis (e.g `stiffness` or `elasticity`) of tumours and their surroundings change how they respond, with the goal of improving drug delivery to chemotherapy-resistant breast cancer tumours. I also work in modelling evolutionary developmental biology, especially how underlying rules give rise to complex feedback systems, such as different developmental tempos or morphology.
