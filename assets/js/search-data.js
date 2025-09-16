@@ -66,8 +66,8 @@ ninja.data = [{
           description: "How do the biophyics and biomechanics of cancer tumours affect their response to chemotherapy?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-vertebrate-segmentation-slock",
-          title: 'Vertebrate segmentation slock',
+            },},{id: "projects-vertebrate-segmentation-clock",
+          title: 'Vertebrate segmentation clock',
           description: "Cell movements, gene regulation and tempo in the vertebrate segmentation clock.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
