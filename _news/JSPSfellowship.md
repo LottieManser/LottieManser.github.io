@@ -6,14 +6,11 @@ inline: false
 related_posts: false
 ---
 
-I am home from my 3 month fellowship with the Matsuzaki lab in Kyoto University, funded by JSPS!
+I am home from my 3 month fellowship with the Matsuzaki lab in Kyoto University, funded by JSPS.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/news/JSPS1.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/news/JSPS3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/news/JSPS4.jpg" class="img-fluid rounded z-depth-1" %}

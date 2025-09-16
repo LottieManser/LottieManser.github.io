@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vertebrate segmentation slock
+title: Vertebrate segmentation clock
 description: Cell movements, gene regulation and tempo in the vertebrate segmentation clock.
 img: assets/img/segmentation_clock_fish.jpg
 importance: 3
