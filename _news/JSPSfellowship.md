@@ -4,6 +4,7 @@ title: Home from JSPS Short-term Fellowship
 date: 2025-04-02 16:11:00-0400
 inline: false
 related_posts: false
+related_publications: true
 ---
 
 I am home from my 3 month fellowship with the Matsuzaki lab in Kyoto University, funded by JSPS.
@@ -27,4 +28,4 @@ I am home from my 3 month fellowship with the Matsuzaki lab in Kyoto University,
 
 ## Update
 
-As of September, we have submitted a manuscript including my work in Kyoto.
+As of September, we have submitted a manuscript including my work in Kyoto {% cite Wu2025 %}.
